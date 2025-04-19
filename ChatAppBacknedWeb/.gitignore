@@ -52,5 +52,6 @@ Thumbs.db
 mvnw
 mvnw.cmd
 
-# Backup files
-* .java~
+### Backup Files ###
+*.java~
+*.class.md~
